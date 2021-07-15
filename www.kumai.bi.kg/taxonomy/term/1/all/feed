@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.kumai.bi.kg/taxonomy/term/1/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Датчики</title>
+    <link>http://www.kumai.bi.kg/taxonomy/term/1/all</link>
+    <description></description>
+    <language>ru</language>
+     <atom:link href="http://www.kumai.bi.kg/taxonomy/term/1/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Пожарный дымовой датчик</title>
+    <link>http://www.kumai.bi.kg/pozharnyy-dymovoy-datchik</link>
+    <description></description>
+     <pubDate>Wed, 27 Apr 2016 15:26:28 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">47 at http://www.kumai.bi.kg</guid>
+  </item>
+  <item>
+    <title>Датчик разбития стекла</title>
+    <link>http://www.kumai.bi.kg/datchik-razbitiya-stekla</link>
+    <description></description>
+     <pubDate>Wed, 27 Apr 2016 15:26:07 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">46 at http://www.kumai.bi.kg</guid>
+  </item>
+  <item>
+    <title>Магнитоконтактный датчик</title>
+    <link>http://www.kumai.bi.kg/magnitokontaktnyy-datchik</link>
+    <description></description>
+     <pubDate>Wed, 27 Apr 2016 15:25:42 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">45 at http://www.kumai.bi.kg</guid>
+  </item>
+  <item>
+    <title>ИК датчик</title>
+    <link>http://www.kumai.bi.kg/ik-datchik</link>
+    <description></description>
+     <pubDate>Wed, 27 Apr 2016 15:25:15 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">44 at http://www.kumai.bi.kg</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.kumai.bi.kg/taxonomy/term/3/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Дополнительное оборудование</title>
+    <link>http://www.kumai.bi.kg/taxonomy/term/3/all</link>
+    <description></description>
+    <language>ru</language>
+     <atom:link href="http://www.kumai.bi.kg/taxonomy/term/3/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Считыватель</title>
+    <link>http://www.kumai.bi.kg/schityvatel</link>
+    <description></description>
+     <pubDate>Wed, 27 Apr 2016 15:30:30 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">54 at http://www.kumai.bi.kg</guid>
+  </item>
+  <item>
+    <title>Сирена</title>
+    <link>http://www.kumai.bi.kg/sirena</link>
+    <description></description>
+     <pubDate>Wed, 27 Apr 2016 15:30:07 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">53 at http://www.kumai.bi.kg</guid>
+  </item>
+  <item>
+    <title>Тревожная кнопка</title>
+    <link>http://www.kumai.bi.kg/trevozhnaya-knopka</link>
+    <description></description>
+     <pubDate>Wed, 27 Apr 2016 15:29:38 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">52 at http://www.kumai.bi.kg</guid>
+  </item>
+  <item>
+    <title>Клавиатура</title>
+    <link>http://www.kumai.bi.kg/klaviatura</link>
+    <description></description>
+     <pubDate>Wed, 27 Apr 2016 15:29:13 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">51 at http://www.kumai.bi.kg</guid>
+  </item>
+  </channel>
+</rss>

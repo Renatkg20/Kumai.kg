@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.kumai.bi.kg/taxonomy/term/2/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Видеонабор</title>
+    <link>http://www.kumai.bi.kg/taxonomy/term/2/all</link>
+    <description></description>
+    <language>ru</language>
+     <atom:link href="http://www.kumai.bi.kg/taxonomy/term/2/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Внешняя видеокамера</title>
+    <link>http://www.kumai.bi.kg/vneshnyaya-videokamera</link>
+    <description></description>
+     <pubDate>Wed, 27 Apr 2016 15:28:40 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">50 at http://www.kumai.bi.kg</guid>
+  </item>
+  <item>
+    <title>Внутренняя видеокамера</title>
+    <link>http://www.kumai.bi.kg/vnutrennyaya-videokamera</link>
+    <description></description>
+     <pubDate>Wed, 27 Apr 2016 15:28:08 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">49 at http://www.kumai.bi.kg</guid>
+  </item>
+  <item>
+    <title>Видео роутер</title>
+    <link>http://www.kumai.bi.kg/video-router</link>
+    <description></description>
+     <pubDate>Wed, 27 Apr 2016 15:27:42 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">48 at http://www.kumai.bi.kg</guid>
+  </item>
+  </channel>
+</rss>
